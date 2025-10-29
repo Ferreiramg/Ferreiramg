@@ -10,12 +10,11 @@ Desenvolvedor Web Pleno apaixonado por **PHP** e **Laravel**, sempre aprendendo 
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreiramg&langs_count=8&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreiramg&langs_count=8&theme=radical&hide_border=false&layout=compact)
  
-
 ## 📫 Vamos nos conectar  
 - LinkedIn: [seu link]  
-- E-mail: [seu e-mail ou “Disponível via DM”]  
+- E-mail: [luis@lpdeveloper.com.br]  
 - GitHub: https://github.com/Ferreiramg  
 
 ---
