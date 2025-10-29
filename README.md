@@ -1,4 +1,4 @@
-# Olá, eu sou Luis Paulo 👋  
+# Olá, eu sou Luís Paulo 👋  
 Desenvolvedor Web Pleno apaixonado por **PHP** e **Laravel**, sempre aprendendo novas tecnologias e entregando soluções práticas, eficientes e bem estruturadas.
 
 ## 💼 Sobre mim  
