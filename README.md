@@ -7,24 +7,11 @@ Desenvolvedor Web Pleno apaixonado por **PHP** e **Laravel**, sempre aprendendo 
 - Valorizo boas práticas, código limpo, testes e automação de tarefas (deploy, CI/CD etc).  
 - Estou aberto a oportunidades desafiadoras e projetos que permitam crescer e colaborar com equipes dedicadas.
 
-## 🛠 Tecnologias & Ferramentas  
-Algumas das tecnologias e ferramentas que utilizo com frequência:
+## 📊 GitHub Stats
 
-| Categoria         | Ferramentas / Domínios                                     |
-|-------------------|------------------------------------------------------------|
-| Linguagens        | PHP, JavaScript, HTML5, CSS3                              |
-| Frameworks        | Laravel, (algum front-end que você use? ex: Vue.js/React) |
-| Banco de Dados    | MySQL, PostgreSQL                                          |
-| DevOps/Infra      | Docker, Git, AWS/Heroku                   |
-| Outras Ferramentas| Composer, npm, GitHub Actions, testes (PHPUnit)            |
-
-## 🚀 Projetos em destaque  
-- **nfephp**: API para comunicação entre emissores de NFe e SEFAZ estaduais (forkado e adaptado)  
-
-## 🎯 O que estou buscando  
-- Projetos onde eu possa assumir responsabilidades de ponta-a-ponta (backend + integração).  
-- Desenvolvimento de APIs escaláveis, micro serviços ou aplicações Laravel modernizadas.  
-- Ambiente onde possa aprender ainda mais sobre DevOps, escalabilidade e arquitetura de software.
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreiramg&langs_count=8&theme=radical&hide_border=false)
+ 
 
 ## 📫 Vamos nos conectar  
 - LinkedIn: [seu link]  
